@@ -1,0 +1,18 @@
+{
+  "name": "ccajax-hello",
+  "description": "Third party message hello",
+  "authors": [
+    {
+      "name": "ccajax test"
+    }
+  ],
+  "license": "MIT",
+  "require": {
+    "php": ">=5.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "ccajax\\": "src/"
+    }
+  }
+}
